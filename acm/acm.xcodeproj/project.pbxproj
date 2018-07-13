@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8120F88AAA0049A4DA /* main.cpp */; };
+		58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		58FBFF7E20F88AAA0049A4DA /* acm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = acm; sourceTree = BUILT_PRODUCTS_DIR; };
 		58FBFF8120F88AAA0049A4DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva10474.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,26 @@
 		58FBFF8020F88AAA0049A4DA /* acm */ = {
 			isa = PBXGroup;
 			children = (
+				58FBFF8920F88D3E0049A4DA /* leetcode */,
+				58FBFF8820F88D240049A4DA /* acm */,
 				58FBFF8120F88AAA0049A4DA /* main.cpp */,
 			);
 			path = acm;
+			sourceTree = "<group>";
+		};
+		58FBFF8820F88D240049A4DA /* acm */ = {
+			isa = PBXGroup;
+			children = (
+				58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */,
+			);
+			path = acm;
+			sourceTree = "<group>";
+		};
+		58FBFF8920F88D3E0049A4DA /* leetcode */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = leetcode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */,
+				58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
