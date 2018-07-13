@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8120F88AAA0049A4DA /* main.cpp */; };
 		58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */; };
+		58FBFF8D20F89EC80049A4DA /* Uva10815.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		58FBFF7E20F88AAA0049A4DA /* acm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = acm; sourceTree = BUILT_PRODUCTS_DIR; };
 		58FBFF8120F88AAA0049A4DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva10474.cpp; sourceTree = "<group>"; };
+		58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva10815.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */,
+				58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */,
 			);
 			path = acm;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58FBFF8D20F89EC80049A4DA /* Uva10815.cpp in Sources */,
 				58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */,
 				58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */,
 			);
