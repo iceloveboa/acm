@@ -7,9 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		58EEF1F22101B9C100E2588D /* Uva814.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58EEF1F12101B9C100E2588D /* Uva814.cpp */; };
+		58EEF1F42101C8EE00E2588D /* Uva221.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58EEF1F32101C8EE00E2588D /* Uva221.cpp */; };
 		58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8120F88AAA0049A4DA /* main.cpp */; };
 		58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */; };
 		58FBFF8D20F89EC80049A4DA /* Uva10815.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */; };
+		58FBFF8F20FC8C410049A4DA /* Uva12096.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF8E20FC8C410049A4DA /* Uva12096.cpp */; };
+		58FBFF9120FCA1730049A4DA /* Uva540.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF9020FCA1730049A4DA /* Uva540.cpp */; };
+		58FBFF93210038F70049A4DA /* Uva136.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF92210038F70049A4DA /* Uva136.cpp */; };
+		58FBFF9521007EFB0049A4DA /* Uva400.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF9421007EFB0049A4DA /* Uva400.cpp */; };
+		58FBFF972100BFA70049A4DA /* Uva1592.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58FBFF962100BFA70049A4DA /* Uva1592.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,10 +32,17 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		58EEF1F12101B9C100E2588D /* Uva814.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva814.cpp; sourceTree = "<group>"; };
+		58EEF1F32101C8EE00E2588D /* Uva221.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva221.cpp; sourceTree = "<group>"; };
 		58FBFF7E20F88AAA0049A4DA /* acm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = acm; sourceTree = BUILT_PRODUCTS_DIR; };
 		58FBFF8120F88AAA0049A4DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva10474.cpp; sourceTree = "<group>"; };
 		58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva10815.cpp; sourceTree = "<group>"; };
+		58FBFF8E20FC8C410049A4DA /* Uva12096.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva12096.cpp; sourceTree = "<group>"; };
+		58FBFF9020FCA1730049A4DA /* Uva540.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva540.cpp; sourceTree = "<group>"; };
+		58FBFF92210038F70049A4DA /* Uva136.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva136.cpp; sourceTree = "<group>"; };
+		58FBFF9421007EFB0049A4DA /* Uva400.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva400.cpp; sourceTree = "<group>"; };
+		58FBFF962100BFA70049A4DA /* Uva1592.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Uva1592.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +87,13 @@
 			children = (
 				58FBFF8A20F88D6A0049A4DA /* Uva10474.cpp */,
 				58FBFF8C20F89EC80049A4DA /* Uva10815.cpp */,
+				58FBFF8E20FC8C410049A4DA /* Uva12096.cpp */,
+				58FBFF9020FCA1730049A4DA /* Uva540.cpp */,
+				58FBFF92210038F70049A4DA /* Uva136.cpp */,
+				58FBFF9421007EFB0049A4DA /* Uva400.cpp */,
+				58FBFF962100BFA70049A4DA /* Uva1592.cpp */,
+				58EEF1F12101B9C100E2588D /* Uva814.cpp */,
+				58EEF1F32101C8EE00E2588D /* Uva221.cpp */,
 			);
 			path = acm;
 			sourceTree = "<group>";
@@ -141,8 +162,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				58FBFF8D20F89EC80049A4DA /* Uva10815.cpp in Sources */,
+				58FBFF972100BFA70049A4DA /* Uva1592.cpp in Sources */,
+				58EEF1F22101B9C100E2588D /* Uva814.cpp in Sources */,
 				58FBFF8220F88AAA0049A4DA /* main.cpp in Sources */,
+				58EEF1F42101C8EE00E2588D /* Uva221.cpp in Sources */,
 				58FBFF8B20F88D6A0049A4DA /* Uva10474.cpp in Sources */,
+				58FBFF8F20FC8C410049A4DA /* Uva12096.cpp in Sources */,
+				58FBFF9120FCA1730049A4DA /* Uva540.cpp in Sources */,
+				58FBFF9521007EFB0049A4DA /* Uva400.cpp in Sources */,
+				58FBFF93210038F70049A4DA /* Uva136.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
